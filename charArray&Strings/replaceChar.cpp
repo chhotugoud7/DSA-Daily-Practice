@@ -16,5 +16,7 @@ int main(){
     replaceCharacter('@', ' ', arr, 1000);
     cout << arr << endl;
 
+    
+
     return 0;
 }
