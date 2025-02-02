@@ -6,9 +6,15 @@ int main ( ){
     string sentence;
 
     // cin a line or a sentence with getline 
-    getline(cin, sentence, '\n');
+    // getline(cin, sentence, '\n');
 
-    cout<<sentence<<endl;
+
+    // cout<<sentence<<endl;
+
+    string name;
+    cin >> name ;
+
+    cout << name ;
 
     return 0;
 }
