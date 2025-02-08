@@ -54,6 +54,7 @@ bool validPalindrome(string s)
 int main()
 {
 
+
     string word;
     cin >> word;
     cout << "this is the given string: " << word << endl;
