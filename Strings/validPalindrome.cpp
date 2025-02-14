@@ -53,8 +53,6 @@ bool validPalindrome(string s)
 
 int main()
 {
-
-
     string word;
     cin >> word;
     cout << "this is the given string: " << word << endl;
@@ -64,7 +62,6 @@ int main()
     }
     else{
     cout << "this is not a valid palindrome " << endl;
-
     }
     return 0;
 }
